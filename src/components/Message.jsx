@@ -5,10 +5,10 @@ export default function Message ({ owner, msg, openImageViewer }) {
   return (
     <div className={owner ? 'message owner' : 'message'}>
       <div className='message-wrapper'>
-        {msg?.images.lenght > 0 && (
+        {msg?.images.length > 0 && (
           <div
             className='image-wrapper'
-            onClick={() => openImageViewer(msg?.images)}
+            onClick={() => openImageViewer(msg.images)}
           >
             <img src={msg?.images[0]} alt='' />
             {msg?.images.length > 1 && (
