@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|c:\\users\\pidda\\onedrive\\skrivbord\\message-thread\\messageapi\\controllers\\threadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|solutionrelative:controllers\\threadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|c:\\users\\pidda\\onedrive\\skrivbord\\message-thread\\messageapi\\models\\thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|solutionrelative:models\\thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|c:\\users\\pidda\\onedrive\\skrivbord\\message-thread\\messageapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|c:\\users\\pidda\\onedrive\\skrivbord\\message-thread\\messageapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|c:\\users\\pidda\\onedrive\\skrivbord\\message-thread\\messageapi\\dtos\\createthreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|solutionrelative:dtos\\createthreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|c:\\users\\pidda\\onedrive\\skrivbord\\message-thread\\messageapi\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|solutionrelative:controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|c:\\users\\pidda\\onedrive\\skrivbord\\message-thread\\messageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|c:\\users\\pidda\\onedrive\\skrivbord\\message-thread\\messageapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|c:\\users\\pidda\\onedrive\\skrivbord\\message-thread\\messageapi\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|c:\\users\\pidda\\onedrive\\skrivbord\\message-thread\\messageapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1C6A6D8-42C8-4DC1-B87D-DEE5D9910ED0}|MessageAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateThreadDto.cs",
+              "DocumentMoniker": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Dtos\\CreateThreadDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CreateThreadDto.cs",
+              "ToolTip": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Dtos\\CreateThreadDto.cs",
+              "RelativeToolTip": "Dtos\\CreateThreadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:05:14.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThreadsController.cs",
+              "DocumentMoniker": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Controllers\\ThreadsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ThreadsController.cs",
+              "ToolTip": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Controllers\\ThreadsController.cs",
+              "RelativeToolTip": "Controllers\\ThreadsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:09:42.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:09:08.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Thread.cs",
+              "DocumentMoniker": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Models\\Thread.cs",
+              "RelativeDocumentMoniker": "Models\\Thread.cs",
+              "ToolTip": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Models\\Thread.cs",
+              "RelativeToolTip": "Models\\Thread.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:01:43.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:59:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Controllers\\MessagesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:41:47.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:37:29.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:38:53.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:36:27.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T08:51:25.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
