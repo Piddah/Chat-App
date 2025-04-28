@@ -8,6 +8,7 @@ import Send from '../assets/svgs/send.svg'
 import { SeedMessages } from '../data/Message.js'
 import { useState } from 'react'
 import ImageSlider from './ImageSlider.jsx'
+import InfoContainer from './InfoContainer.jsx'
 
 export default function Content ({ chat, setChat }) {
   const [onMenu, setOnMenu] = useState(false)
@@ -27,7 +28,8 @@ export default function Content ({ chat, setChat }) {
 
   return (
     <div className={chat ? 'content active' : 'content'}>
-      <div className='wrapper'>
+      {chat? (
+        <div className='wrapper'>
         <div className='top'>
           <Avatar username={'Peter'} height={45} width={45} />
           <div className='app-icon' onClick={() => setOnMenu(prev => !prev)}>
@@ -68,7 +70,10 @@ export default function Content ({ chat, setChat }) {
             <SVG className='send-icon' src={Send} />
           </div>
         </div>
-      </div>
-    </div>
+        </div>
+      ) : (
+        <InfoContainer />
+      )}
+  </div>
   )
 }

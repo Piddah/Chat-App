@@ -53,6 +53,7 @@
   }
   
   button {
+    width: 100px;
     padding: 0.5rem 1rem;
     border-radius: 0.3rem;
     border: none;
@@ -61,15 +62,17 @@
     font-weight: 500;
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 0.4rem;
+    color: black;
     background-color: var(--white);
     transition: all 0.3s;
   }
   
   button:hover {
-    background-color: whitesmoke;
-    color: var(--blue);
-  }
+    color: white;
+    background-color: var(--bg-light);
+}
   
   .d-flex-row {
     display: flex;

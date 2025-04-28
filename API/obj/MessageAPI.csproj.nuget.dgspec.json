@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\MessageAPI.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\ChatApp\\Chat-App\\API\\MessageAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\MessageAPI.csproj": {
+    "C:\\Users\\Hp\\Desktop\\ChatApp\\Chat-App\\API\\MessageAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\MessageAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\ChatApp\\Chat-App\\API\\MessageAPI.csproj",
         "projectName": "MessageAPI",
-        "projectPath": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\MessageAPI.csproj",
-        "packagesPath": "C:\\Users\\pidda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pidda\\OneDrive\\Skrivbord\\Message-Thread\\MessageAPI\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\ChatApp\\Chat-App\\API\\MessageAPI.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\ChatApp\\Chat-App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pidda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -93,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

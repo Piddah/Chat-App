@@ -1,4 +1,4 @@
-import NoAvatar from '../assets/imgs/noAvatar.png'
+import NoAvatar from "../assets/imgs/noAvatar.png";
 
 export default function Avatar ({ src, username, height, width }) {
   return (
@@ -10,7 +10,7 @@ export default function Avatar ({ src, username, height, width }) {
           height: `${height}px`,
           width: `${width}px`,
           objectFit: 'cover',
-          borderRadius: '0.5rem'
+          borderRadius: '0.5rem',
         }}
       />
       {username && (

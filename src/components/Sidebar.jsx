@@ -7,15 +7,23 @@ import ContactItem from './ContactItem.jsx'
 import ChatItem from './ChatItem.jsx'
 import power from '../assets/svgs/power.svg'
 import React from 'react'
+import { useState } from 'react'
+import Profile from './Profile.jsx'
+
 
 export default function Sidebar ({ setChat }) {
-  const [newChat, setNewChat] = React.useState(false)
+  const [newChat, setNewChat] = useState(false)
+  const [onProfile, setOnProfile] = useState(false)
+  console.log(onProfile)
 
   return (
     <div className='sidebar'>
-      <div className='wrapper'>
+      <Profile open={onProfile} setOpen={setOnProfile}/>
+      <div className='wrapper'> 
         <div className='top'>
-          <Avatar width={45} height={45} />
+          <div style={{ cursor: 'pointer' }} onClick={() => setOnProfile(true)}>
+            <Avatar width={45} height={45} />
+          </div>
           {newChat && <span className='heading'>Add Conversation</span>}
           <div className='app-icon' onClick={() => setNewChat(prev => !prev)}>
             <SVG
@@ -29,7 +37,7 @@ export default function Sidebar ({ setChat }) {
             <div className='input-wrapper'>
               <SVG className='search-icon' src={Search} />
               <input
-                type='text'
+                type='text' className="search-input"
                 placeholder={newChat ? 'Search a user' : 'Search a thread'}
               />
             </div>

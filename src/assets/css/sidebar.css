@@ -80,26 +80,16 @@
 }
 
 .plus-icon {
-    stroke: white;
-    scale: 1.5;
+    scale: 1.7;
 }
 
 .search-icon {
     margin-left: 0.5rem;
-    stroke: white;
     scale: 1.1;
 }
 
-.logout-btn {
-    background-color: var(--white);
-    color: var(--blue);
-    border-radius: 0.3rem;
-    padding: 0.5rem 1rem;
-    cursor: pointer;
-}
 .logout-icon {
-    stroke: rgb(0, 0, 0);
-    scale: 1.1;
+    scale: 1.7;
 }
 
 .sidebar .center .center-wrapper {
@@ -142,24 +132,6 @@
 .chat-item-infos .avatar-infos .username {
     font-size: 1rem;
 }
-
-/*
-@media (max-width: 768px) {
-    .sidebar {
-        width: 100%;
-        position: fixed;
-        z-index: 1000;
-        top: 0;
-        left: 0;
-        height: 100vh;
-        transition: all 0.3s ease-in-out;
-    }
-
-    .sidebar.hidden {
-        transform: translateX(-100%);
-    }
-}
-    */
 
 @media (max-width: 580px) {
     .sidebar {

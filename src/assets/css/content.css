@@ -103,9 +103,41 @@
     overflow-y: scroll;
 }
 
+.info-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.info-wrapper .infos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 2rem;
+    color: grey;
+}
+
+.info-wrapper .infos .chat-icon {
+    scale: 8;
+}
+
+.info-wrapper .infos h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    padding-top: 2rem;
+}
+
+.info-wrapper .infos p {
+    font-size: 1.1rem;
+}
+    
+
 @media (max-width: 580px) {
     .content {
         width: 100%;
+        height: 100%;
         position: fixed;
         top: 0;
         right: 0;
